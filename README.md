@@ -27,12 +27,19 @@ highlighting the importance of prioritizing native plants in restoration project
 
 ## Data: Contains CSV files necessary for running code
 (1) **bee_occ.csv:** CSV file of bee occurrence data
+
 (2) **bee_lists.csv:** CSV of bee species lists by restoration site
+
 (3) **sp_matrix_bees.csv:** CSV of bee species matrix from three sites
+
 (4) **sp_matrix_plants.csv:** CSV of plant species matrix from two sites
+
 (5) **sp_matrix_all.csv:** CSV of bee and plant species together in one matrix from two sites
+
 (6) **plant_lists.csv:** CSV of plant species lists by restoration site
+
 (7) **spatial.csv:** CSV of bee sampling site locations for spatial analysis
+
 (8) **occ_beelib_ca_16mar2026.csv:** CSV of broader occurrence data to filter and look for potential species in these sites
 
 
